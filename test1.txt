@@ -1,1 +1,3 @@
 this is the bank.
+new line in test1
+second line in file
